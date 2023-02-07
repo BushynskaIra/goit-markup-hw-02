@@ -129,7 +129,7 @@ a{
 .team-member{
     background-color: var(--background-color-white);
 }
-.about-title-main{
+.team-title-main{
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
